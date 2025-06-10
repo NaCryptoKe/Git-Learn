@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//comment
 const int PASS = 6497;
 
 struct ATM
